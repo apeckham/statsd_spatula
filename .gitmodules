@@ -1,3 +1,0 @@
-[submodule "cookbooks/statsd"]
-	path = cookbooks/statsd
-	url = https://github.com/librato/statsd-cookbook
