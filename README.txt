@@ -8,5 +8,6 @@ Created by these commands:
 - #write node.json and solo.rb
 
 To run:
+- bundle install
 - spatula prepare HOST
 - spatula cook HOST node
